@@ -3,6 +3,8 @@ A console file server and client application. It uses TCP protocol and RSA encry
 
 Supports downloading/uploading/deleting files, creating/deleting directories, listing files & directories on the server and getting the server time.
 
+[![Release](https://img.shields.io/github/release/GregaMohorko/FileServerAndClient.svg?style=flat-square)](https://github.com/GregaMohorko/FileServerAndClient/releases/latest)
+
 ## Screenshots
 
 ### Server
